@@ -1,0 +1,19 @@
+title
+序章 后篇
+System
+
+outline
+你醒了过来，眼前是自称“可可萝”的“引导者”。你们和突然出现的饿肚子少女“佩可莉姆”以及擅长回复魔法的“优衣”一起，为守护昏迷的少女与魔物展开战斗。
+System
+
+face
+500270
+System
+
+find_l
+200000201
+Effect
+
+drop_r
+Effect
+
